@@ -1,0 +1,1 @@
+Bujji is a Python-based AI assistant capable of performing various tasks such as weather lookup, IP address retrieval, and handling voice-based commands. This project integrates APIs and custom functions to interact with users through both text and voice inputs, providing a versatile platform for AI-driven interactions.
